@@ -1,5 +1,5 @@
 ---
-title: Get Your 8 Week Custom Keto Diet
+title: Get Your 8 Week Custom Keto Diet!
 published: true
 ---
 
