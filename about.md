@@ -4,7 +4,7 @@ title: About
 ---
 
 <p align="center">
-    <img src="assets/images/orca.jpg" alt="qooldb">
+    <img src="assets/images/orca.jpg" alt="qooldb" width="140">
 </p>
 We only want to display the coolest stuff you can find and buy on the web. We are not interested in spamming any boring or lame products at you – when you visit QoolDB you’ll only see interesting, innovative products.
 
