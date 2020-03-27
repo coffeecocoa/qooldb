@@ -3,9 +3,9 @@ description: "5 4 3 2 1 Collections of stuff from the internet, Visit Us!"
 author:
   name: "QoolDB"
   email: "norcads@gmail.com"
-  url: "https://qooldb.netlify.com/"
+  url: "https://qooldb.netlify.com"
 
-baseurl: 
+baseurl: /
 
 source: .
 destination: ./_site
