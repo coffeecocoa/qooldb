@@ -6,7 +6,7 @@ title: About
 <p align="center">
     <img src="assets/images/orca.jpg" alt="qooldb" width="140">
 </p>
-Just only want to display best content related to games stuff that you can find and buy on the web. All links on this site are curated by hand.
+Just only want to display the best list content related to games stuff that you can find and buy on the web. All links on this site are curated by hand.
 
 Why? Because i love game.
 
