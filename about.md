@@ -6,9 +6,11 @@ title: About
 <p align="center">
     <img src="assets/images/orca.jpg" alt="qooldb" width="140">
 </p>
-We only want to display the coolest stuff you can find and buy on the web. We are not interested in spamming any boring or lame products at you – when you visit QoolDB you’ll only see interesting, innovative products.
+Just only want to display best content related to games stuff that you can find and buy on the web. All links on this site are curated by hand.
 
-Many items listed on this site do return a small commission for product referral, however this is not the sole motivation for featuring an item. We do not carry any of the products listed on this page, nor do we directly sell anything.
+Why? Because i love game.
+
+Some items listed on this site do return a small commission for product referral, however this is not the sole motivation for featuring an item.
 
 *   [Twitter](https://twitter.com/greenlute)
 
