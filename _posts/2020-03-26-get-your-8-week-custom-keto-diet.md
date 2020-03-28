@@ -1,6 +1,7 @@
 ---
 title: Get Your 8 Week Custom Keto Diet!
 published: true
+tags: [weightloss, keto]
 ---
 
 Would You Like to Know Exactly What to Eat to Lose Fat and Get Healthy Without Giving Up Your Favorite Foods or Starving Yourself?

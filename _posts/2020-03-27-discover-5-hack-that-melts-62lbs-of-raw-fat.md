@@ -1,6 +1,7 @@
 ---
 title: Discover 5 Hack That Melts 62lbs of Raw Fat!
 published: true
+tags: [weightloss, supplement]
 ---
 
 Feel wasting your money on expensive equipment, gym training sessions and aerobics, and Zumba classes?

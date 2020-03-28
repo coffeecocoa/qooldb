@@ -1,6 +1,7 @@
 ---
 title: Resurge Review - What is Resurge Supplement all About? Is Resurge Good For Weight Loss?
 published: true
+tags: [weightloss, supplement]
 ---
 
 Resurge fat burning supplements will assist you to get safe and sound sleep and perform your weight loss journey without any inconvenience.
