@@ -1,0 +1,39 @@
+---
+title: Rita Ora Returns With New Single, Little Mix Introduces Their 6th Album
+date: 2020-03-29 16:05:00
+published: true
+tags: [gaming, music, health, lists]
+---
+
+<p align="center">
+    <img src="https://www.idolator.com/wp-content/uploads/sites/10/2020/03/rita-ora-how-to-be-lonely-83146-620x413.jpg" alt="Rita Ora Returns" width="380" />
+</p>
+
+### Music:
+*   [Rita Ora Returns With New Single “How To Be Lonely”](https://www.idolator.com/7908020/rita-ora-returns-with-new-single-how-to-be-lonely) <i>(by <a href="https://twitter.com/mikewassmusic">Mike Wass</a>)</i>, Rita Ora introduces her third LP with a mid-tempo tune called “How To Be Lonely.” Penned by...
+
+*   [Little Mix Introduces Their 6th Album With “Break Up Song”](https://www.idolator.com/7908518/little-mix-introduces-their-6th-album-with-break-up-song) <i>(by <a href="https://twitter.com/mikewassmusic">Mike Wass</a>)</i>, The UK girl group returns to the New Music Friday lineup with a wistful banger called “Break Up Song.” The title says it all. This is a...
+
+*   [Today’s self-isolation livestreams (Anti-Flag, Ben Folds, Jesse Malin, more)](http://www.brooklynvegan.com/todays-self-isolation-livestreams-anti-flag-ben-folds-jesse-malin-more/) <i>(by Amanda Hatfield)</i>, With no shows happening, a lot of artists are livestreaming performances from safely isolated locations that you can watch in a safely isolated location like your home. HERE ARE TODAY’S LIVESTREAMS...
+
+### Games:
+*   [Deluge of big name titles announced for Switch in today’s presentation](http://brutalgamer.com/2020/03/26/deluge-of-big-name-titles-announced-for-switch-in-todays-presentation/) <i>(by Jason)</i>,
+A monster amount of games were announced as heading to Nintendo’s Switch today, including BioShock, XCOM, and more Star Wars classics. Well, this was a nice little day-brightener for...
+
+*   [Mount & Blade II: Bannerlord pushes forward its Early Access date](https://www.pcinvasion.com/mount-blade-ii-bannerlord-pushes-forward-its-early-access-date/) <i>(by Jake Su)</i>, TaleWorlds Entertainment has an early present for fans of the Mount & Blade. The Early Access launch for Mount & Blade II: Bannerlord has now been brought forward by a day...
+
+*   [Resident Evil 3 Jill Valentine Trailer, Jill to be Playable via Update in Resident Evil Resistance](https://nichegamer.com/2020/03/27/resident-evil-3-jill-valentine-trailer-jill-to-be-playable-via-update-in-resident-evil-resistance/) <i>(by Ryan Pearson)</i>, Capcom have released a new trailer for Resident Evil 3, focusing on protagonist Jill Valentine, and that the character will be coming to Resident Evil Resistance...
+
+### Health:
+*   [3 Ways to Increase Power Without Olympic Lifts](https://www.stack.com/a/3-ways-to-increase-power-without-olympic-lifts) <i>(by Cory Windle)</i>, Speed is king. Every coach and athlete knows this when it comes to being able to play at high levels. Research has stated that...
+
+*   [5-Second "Hack" That KILLS Food Cravings and MELTS 62lbs of Raw Fat](https://bit.ly/2J5fwrn) <i>(by Morgan Hurst)</i>, Here's how he saved his wife's life with a...
+
+*   [The Dropset That Makes You Stronger](https://www.bodybuilding.com/content/the-dropset-that-makes-you-stronger.html) <i>(by John Rusin)</i>, Smart lifters work damn hard to ramp up for their big lifts; from their warm-ups to the...
+
+### Discussions:
+*   [VACATIONS - Honey [alt/indie rock] (2018)](https://www.reddit.com/r/listentothis/comments/fr1hsq/vacations_honey_altindie_rock_2018/) <i>(by Bigarettes)</i>, The whole album Vibes is great! Moving out was on repeat when I was, well, moving out of my college apt. It was the perfect backdrop...
+
+*   [Wisdom.](https://www.reddit.com/r/gaming/comments/fqzcc2/wisdom/) <i>(by Lightflake)</i>, So this implies all gaming consoles are bad as long as you're not having fun...
+
+*   [Tips or how to have better exercise?](https://www.reddit.com/r/Fitness/comments/fr2efn/tips_or_how_to_have_better_exercise/) <i>(by ElvisterGaming)</i>, I'm pretty fat right now actually double of what i should be, gotta ask what tips can you guys give me on what type of exercise should i do?...
