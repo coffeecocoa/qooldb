@@ -4,7 +4,7 @@ title: About
 ---
 
 <p align="center">
-    <img src="assets/images/orca.jpg" alt="qooldb" width="140">
+    <img src="assets/images/qooldb.jpg" alt="qooldb" height="150" />
 </p>
 Just only want to display curated list from the best content and stuff that you can find and buy on the web. All links on this site are curated by hand.
 
