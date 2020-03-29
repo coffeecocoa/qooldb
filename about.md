@@ -8,7 +8,7 @@ title: About
 </p>
 Just only want to display curated list from the best content and stuff that you can find and buy on the web. All links on this site are curated by hand.
 
-Why is do dark? Because Dark Theme good for my eyes :-) ...
+Why is it so dark? Because Dark Theme is good for my eyes :-) ...
 
 Some items listed on this site do return a small commission for product referral, however this is not the sole motivation for featuring an item.
 
