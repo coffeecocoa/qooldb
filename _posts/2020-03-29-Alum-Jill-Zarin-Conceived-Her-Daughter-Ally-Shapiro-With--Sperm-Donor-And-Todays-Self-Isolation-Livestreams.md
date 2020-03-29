@@ -1,18 +1,18 @@
 ---
-title: Rita Ora Returns With New Single, Little Mix Introduces Their 6th Album
+title: Alum Jill Zarin Conceived Her Daughter Ally Shapiro With a Sperm Donor And Today’s Self-Isolation Livestreams
 date: 2020-03-29 16:05:00
 published: true
 tags: [gaming, music, health, lists]
 ---
 
 <p align="center">
-    <img src="https://www.idolator.com/wp-content/uploads/sites/10/2020/03/rita-ora-how-to-be-lonely-83146-620x413.jpg" alt="Rita Ora Returns" width="380" />
+    <img src="https://i0.wp.com/www.usmagazine.com/wp-content/uploads/2020/03/RHONY-Alum-Jill-Zarin-Conceived-Daughter-Ally-Shapiro-With-a-Sperm-Donor-.jpg" alt="Rita Ora Returns" width="380" />
 </p>
 
-### Music:
-*   [Rita Ora Returns With New Single “How To Be Lonely”](https://www.idolator.com/7908020/rita-ora-returns-with-new-single-how-to-be-lonely) <i>(by <a href="https://twitter.com/mikewassmusic">Mike Wass</a>)</i>, Rita Ora introduces her third LP with a mid-tempo tune called “How To Be Lonely.” Penned by...
+### Entertainment:
+*   [‘RHONY’ Alum Jill Zarin Conceived Daughter Ally Shapiro With a Sperm Donor](https://www.usmagazine.com/celebrity-news/news/jill-zarin-conceived-daughter-ally-shapiro-with-a-sperm-donor/) <i>(by Mariah Cooper)</i>, Dropping a bombshell. Jill Zarin and her ex-husband Steven Shapiro conceived their daughter, Ally Shapiro, with a sperm donor — which was a secret that...
 
-*   [Little Mix Introduces Their 6th Album With “Break Up Song”](https://www.idolator.com/7908518/little-mix-introduces-their-6th-album-with-break-up-song) <i>(by <a href="https://twitter.com/mikewassmusic">Mike Wass</a>)</i>, The UK girl group returns to the New Music Friday lineup with a wistful banger called “Break Up Song.” The title says it all. This is a...
+*   ['Avatar: The Last Airbender' is the Journey Your Life's Been Missing](https://filmschoolrejects.com/avatar-the-last-airbender/) <i>(by Valerie Ettenhofer)</i>, Humor, heart, and high stakes make this beloved animated series surprisingly addictive, and unlike epic fantasies out there, this one delivers a...
 
 *   [Today’s self-isolation livestreams (Anti-Flag, Ben Folds, Jesse Malin, more)](http://www.brooklynvegan.com/todays-self-isolation-livestreams-anti-flag-ben-folds-jesse-malin-more/) <i>(by Amanda Hatfield)</i>, With no shows happening, a lot of artists are livestreaming performances from safely isolated locations that you can watch in a safely isolated location like your home. HERE ARE TODAY’S LIVESTREAMS...
 
