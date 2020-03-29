@@ -12,6 +12,6 @@ Why is do dark? Because Dark Theme good for my eyes :-) ...
 
 Some items listed on this site do return a small commission for product referral, however this is not the sole motivation for featuring an item.
 
-*   [Twitter](https://twitter.com/greenlute)
+*   [Twitter](https://twitter.com/qooldb)
 
 *   [Pinterest](https://pinterest.com/qooldb/)
