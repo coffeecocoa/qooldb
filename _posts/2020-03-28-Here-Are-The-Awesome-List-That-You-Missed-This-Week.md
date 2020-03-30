@@ -1,5 +1,7 @@
 ---
 title: Here Are The Awesome List That You Missed This Week!
+description: Fleshgod Apocalypse is a band originally from Italy. These... Tragic life with sad ending, sad love story, sad plot twist, friendship betrayal, and heartbreaking emotions. These are just some of the...
+date: 2020-03-28 16:05:00
 published: true
 tags: [lists]
 ---

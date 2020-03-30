@@ -1,5 +1,6 @@
 ---
 title: Alum Jill Zarin Conceived Her Daughter Ally Shapiro With a Sperm Donor And Today’s Self-Isolation Livestreams
+description: Dropping a bombshell. Jill Zarin and her ex-husband Steven Shapiro conceived their daughter, Ally Shapiro, with a sperm donor... new trailer for Resident Evil 3, focusing on protagonist Jill Valentine, and that the character will be coming to Resident Evil Resistance...
 date: 2020-03-29 16:05:00
 published: true
 tags: [gaming, music, health, lists]

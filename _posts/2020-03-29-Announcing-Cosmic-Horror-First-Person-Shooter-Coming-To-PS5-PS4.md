@@ -1,5 +1,6 @@
 ---
 title: Announcing Cosmic Horror First-Person Shooter Coming To PS5, PS4!
+description: Kings of Lorn The Fall of Ebris developer TeamKill Media has announced Quantum Error, a “cosmic horror” first-person shooter for PlayStation 5 and PlayStation 4. Watch the teaser!
 date: 2020-03-29 01:42:00
 published: true
 tags: [gaming, lists]
