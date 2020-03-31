@@ -1,6 +1,6 @@
 ---
 title: A Curated List of Awesome World of Warcraft New Players Class Leveling Spec 1-120 Guide Plus Heritage Armor From WOWHEAD
-description: World of Warcraft New Players Class Leveling Spec 1-120 Guide Hunter Leveling Guide, Paladin Leveling Guide, Druid Leveling Guide, Warrior Leveling Guide, Mage Leveling Guide
+description: World of Warcraft New Players Class Leveling Spec 1-120 Plus Heritage Armor, Guide Hunter Leveling Guide, Paladin Leveling Guide, Druid Leveling Guide, Warrior Leveling Guide, Mage Leveling Guide
 date: 2020-03-31 16:07:00
 published: true
 tags: [WoW, guide, gaming, lists]
