@@ -6,6 +6,24 @@ description: 5, 4, 3, 2, 1, Display curated shop list from the best product and 
 
 
 <p align="center">
+    <a href="https://amzn.to/2yrlErX" >
+        <img src="https://images-na.ssl-images-amazon.com/images/I/71x-SRoFgAL._AC_SL1500_.jpg" alt="halki diabetes remedy 30 Minutes" width="350" />
+    </a>
+</p>
+
+<h4 align="center">Playstation4 Slim 1TB Console bundle with matching Dualshock4 Wireless Controller and god of war, the last of us remastered, and Horizon Zero Dawn: complete Edition games!</h4>
+
+<p align="center">Amazon: $282.99</p>
+
+<p align="center">
+    <a href="https://amzn.to/2yrlErX" >
+        <img src="assets/images/shops/interested.png" alt="Playstation4 Slim 1TB Console bundle" width="150" />
+    </a>
+</p>
+
+<hr>
+
+<p align="center">
     <a href="https://20456b37pmsj2522oc16vouxf8.hop.clickbank.net/" >
         <img src="https://images-na.ssl-images-amazon.com/images/I/611eI8qWyDL.jpg" alt="halki diabetes remedy 30 Minutes" width="250" />
     </a>
