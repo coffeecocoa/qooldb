@@ -4,6 +4,23 @@ title: Shop
 description: 5, 4, 3, 2, 1, Display curated shop list from the best product and stuff that you can find and buy on the web, Visit Us!
 ---
 
+
+<p align="center">
+    <a href="https://20456b37pmsj2522oc16vouxf8.hop.clickbank.net/" >
+        <img src="https://images-na.ssl-images-amazon.com/images/I/611eI8qWyDL.jpg" alt="halki diabetes remedy 30 Minutes" width="250" />
+    </a>
+</p>
+
+<h4 align="center">His Wife Was 30 Minutes From A Fatal Diabetic Coma...Until He Discovered The 60-Sec Habit That Reversed Her Type 2 Diabetes and Melted Away 56lbs of Fat</h4>
+
+<p align="center">
+    <a href="https://20456b37pmsj2522oc16vouxf8.hop.clickbank.net/" >
+        <img src="assets/images/shops/interested.png" alt="halki diabetes remedy" width="150" />
+    </a>
+</p>
+
+<hr>
+
 <p align="center">
     <a href="https://bit.ly/33DHWSB" >
         <img src="assets/images/shops/iphone11.jpg" alt="iphone11 pro max" width="250" />
