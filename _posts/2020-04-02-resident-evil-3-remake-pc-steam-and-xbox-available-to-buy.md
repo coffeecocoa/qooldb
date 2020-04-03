@@ -1,7 +1,7 @@
 ---
 title: Resident Evil 3 Remake PC Steam and XBOX Available to Buy!
 description: Resident Evil 3 Remake PC Steam and XBOX Available to Buy Also includes Resident Evil Resistance, a new 1 vs 4 online multiplayer
-date: 2020-04-01 21:012:00
+date: 2020-04-03 15:43:00
 published: true
 tags: [ gaming, lists]
 ---
