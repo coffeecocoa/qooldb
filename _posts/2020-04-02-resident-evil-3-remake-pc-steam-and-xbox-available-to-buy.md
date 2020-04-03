@@ -1,6 +1,6 @@
 ---
-title: Resident Evil 3 Remake Available for Pre-order on Amazon!
-description: Resident Evil 3 Remake Available for Pre-order on Amazon Also includes Resident Evil Resistance, a new 1 vs 4 online multiplayer
+title: Resident Evil 3 Remake PC Steam and XBOX Available to Buy!
+description: Resident Evil 3 Remake PC Steam and XBOX Available to Buy Also includes Resident Evil Resistance, a new 1 vs 4 online multiplayer
 date: 2020-04-01 21:012:00
 published: true
 tags: [ gaming, lists]
@@ -8,17 +8,15 @@ tags: [ gaming, lists]
 
 
 <p align="center">
-    <a href="https://amzn.to/3bLG7G6" >
-        <img src="https://images-na.ssl-images-amazon.com/images/I/81MDN6aWyZL._SL1500_.jpg" alt="Resident Evil 3 Remake" width="450" />
+    <a href="bit.ly/gamenelectrostore" >
+        <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Resident_Evil_3.jpg" alt="Resident Evil 3 Remake" width="350" />
     </a>
 </p>
 
-## PRE-PURCHASE OFFER
-Amazon: $59.99
-
 <p align="center">
-    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=pupulumu-20&marketplace=amazon&region=US&placement=B082LKJ33D&asins=B082LKJ33D&linkId=4d0942d2c0e573b56aabde3c5701d8f8&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
+    <a href="bit.ly/gamenelectrostore" >
+        <img src="assets/images/shops/interested.png" alt="Resident Evil 3 Remake buy" width="150" />
+    </a>
 </p>
 
 ## ABOUT THIS GAME
@@ -31,10 +29,16 @@ The developers describe the content like this:
 WARNING: This game contains strong language and extreme violence.
 
 <p align="center">
-    <a href="https://amzn.to/3bLG7G6" >
+    <strong>PC Steam and XBOX Version</strong>
+    <strong>Order Here Now!</strong>
+</p>
+
+<p align="center">
+    <a href="bit.ly/gamenelectrostore" >
         <img src="assets/images/shops/interested.png" alt="Resident Evil 3 Remake buy" width="150" />
     </a>
 </p>
+
 
 ## SYSTEM REQUIREMENTS
 
