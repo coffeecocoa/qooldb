@@ -39,3 +39,11 @@ from level 1 to 120 the FASTEST way possible!
         </strong>
     </a>
 </p>
+
+<p align="center">
+    <a href="https://bit.ly/gamenelectrostore">
+        <strong>
+            What new games are coming out in 2020?
+        </strong>
+    </a>
+</p>
