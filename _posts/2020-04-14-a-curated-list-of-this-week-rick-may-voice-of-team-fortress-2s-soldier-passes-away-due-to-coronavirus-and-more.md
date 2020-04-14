@@ -28,3 +28,12 @@ tags: [gaming, lists]
 *   [Shooting Star Wishes, Star Pieces and Star Fragments](https://www.ign.com/wikis/animal-crossing-new-horizons/Shooting_Star_Wishes,_Star_Pieces_and_Star_Fragments) <i>(by Janet Garcia, Angie Harvey, Abby Lee Hood + more)</i> - If you look up at the night sky in Animal Crossing: New Horizons, there's a chance you'll see a shooting star. Better yet, you might even have a scheduled meteor shower event! This page will tell you all...
 
 *   [Earn Money Forever Just Inviting Four Friends with G2A Goldmine](https://www.g2a.com/r/affiliate-partners) - You can earn money. You invite friends , and when they buy something you get money. [Goldmine is 2 levels deep](https://www.g2a.com/r/affiliate-partners), meaning that when your friends who you referred invite their friends, you will also get money from their purchases! Imagine if you invite only 15 friends, and each of them invites just 3 more. Thats already 60 people that you referred!  
+
+
+<p align="center">
+    <a href="https://bit.ly/gamenelectrostore">
+        <strong>
+            What new games are coming out in 2020?
+        </strong>
+    </a>
+</p>
