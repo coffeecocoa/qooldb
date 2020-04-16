@@ -3,9 +3,9 @@ description: "5, 4, 3, 2, 1, Display curated list from the best content and stuf
 author:
   name: "QoolDB"
   email: "midorimahibiki@gmail.com"
-  url: "https://qooldb.netlify.com"
+  url: "https://qooldb.netlify.app"
 
-url: "https://qooldb.netlify.com"
+url: "https://qooldb.netlify.app"
 # baseurl: /
 
 source: .
