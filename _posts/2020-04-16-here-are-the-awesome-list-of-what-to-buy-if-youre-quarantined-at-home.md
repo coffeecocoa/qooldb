@@ -8,7 +8,7 @@ tags: [lists]
 
 <p align="center">
     <a href="https://amzn.to/3etIeR0">
-        <img src="https://static.toiimg.com/thumb/msid-74607488,imgsize-203135,width-800,height-600,resizemode-75/74607488.jpg" alt="List of What To Buy If You’re Quarantined at Home"/>
+        <img src="https://miro.medium.com/max/7600/1*b-yTXfsdHzz2ylFpaXZTtw.jpeg" alt="List of What To Buy If You’re Quarantined at Home"/>
     </a>
 </p>
 
