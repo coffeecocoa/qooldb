@@ -30,6 +30,28 @@ tags: [gaming, lists]
 *   [Earn Money Forever Just Inviting Four Friends with G2A Goldmine](https://www.g2a.com/r/affiliate-partners) - You can earn money. You invite friends , and when they buy something you get money. [Goldmine is 2 levels deep](https://www.g2a.com/r/affiliate-partners), meaning that when your friends who you referred invite their friends, you will also get money from their purchases! Imagine if you invite only 15 friends, and each of them invites just 3 more. Thats already 60 people that you referred...
 
 
+### Item
+
+*   [$60 PlayStation Store Gift Card [Digital Code]](https://amzn.to/34HN34I) <i>$60.00</i>
+
+*   [$60 Xbox Gift Card [Digital Code]](https://amzn.to/3ahJHXj) <i>$60.00</i>
+
+*   [$70 Nintendo eShop Gift Card [Digital Code]](https://amzn.to/2VzW23U) <i>$70.00</i>
+
+*   [Steam Gift Card - $20 by Valve](https://amzn.to/3a8kJd6) <i>$32.99</i>
+
+*   [Animal Crossings New Horizons - Nintendo Switch [Digital Code]](https://amzn.to/2VaSFSa) <i>$59.99</i> - Build your community from scratch on a deserted island brimming with possibility; Create your personal getaway and customize your...
+
+*   [League of Legends $10 Gift Card - NA Server Only [Online Game Code]](https://amzn.to/2Vz7z3C) <i>$10.00</i>
+
+*   [League of Legends $25 Gift Card - NA Server Only [Online Game Code]](https://amzn.to/3eqoOwz) <i>$25.00</i>
+
+
+### You may need this
+
+*   [Fruit of the Loom Men's Coolzone Boxer Briefs](https://amzn.to/2QTrYyJ) <i>$19.49</i>, Fruit of the Loom cooling long leg men's boxer briefs take your favorite everyday underwear to the...
+
+
 <p align="center">
     <a href="https://bit.ly/gamenelectrostore">
         <strong>
