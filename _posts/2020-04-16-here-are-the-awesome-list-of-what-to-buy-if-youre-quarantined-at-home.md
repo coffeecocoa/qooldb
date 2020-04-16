@@ -50,7 +50,7 @@ If you’re quarantined at home, there are certain supplies you’ll want to sto
 Fruit of the Loom cooling long leg men's boxer briefs take your favorite everyday underwear to the...
 
 
-### Sometime You need some Fun
+### And have some fun
 
 *   [$60 PlayStation Store Gift Card [Digital Code]](https://amzn.to/34HN34I) <i>$60.00</i>
 
