@@ -58,3 +58,5 @@ Made for weekend warriors, Nate’s eye-catching construction and on-the-move fu
 
 *   [Fruit of the Loom Men's Coolzone Boxer Briefs](https://amzn.to/2QTrYyJ) <i>$19.49</i>,
 Fruit of the Loom cooling long leg men's boxer briefs take your favorite everyday underwear to the...
+
+### [Here Are The Awesome List of What To Buy If You’re Quarantined at Home!](https://qooldb.netlify.app/here-are-the-awesome-list-of-what-to-buy-if-youre-quarantined-at-home)
