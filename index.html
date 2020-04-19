@@ -6,8 +6,11 @@ layout: default
     {% for post in paginator.posts %}
       <li>
           <h2 style="font-size: 18px;"><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
-          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-          <p>{{ post.content | strip_html | truncatewords:24 }}</p>
+          
+          <p>
+          	<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time> - 
+          	{{ post.content | strip_html | truncatewords:24 }}
+          </p>
       </li>
     {% endfor %}
 </ul>
