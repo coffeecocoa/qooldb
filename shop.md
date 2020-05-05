@@ -179,38 +179,3 @@ description: Animal Crossings New Horizons - Build your community from scratch o
     </a>
 </p>
 
-<hr>
-
-<p align="center">
-    <a href="https://s.click.aliexpress.com/e/_dSf2apO" >
-        <img src="https://ae01.alicdn.com/kf/H4070e9d79eda417f9a4d54e940b2a4ffF/Original-New-font-b-Samsung-b-font-Galaxy-font-b-Note-b-font-font-b-10.jpg_350x350.jpg" alt="Samsung Galaxy Note 10|10+|10+" width="350" />
-    </a>
-</p>
-
-<h4 align="center">Original New Samsung Galaxy Note 10|10+|10+ 5G S Pen Infinity Display On Screen Fingerprint Android Smart Mobile Phone S PEN</h4>
-
-<p align="center">US $811.23 - 972.16</p>
-
-<p align="center">
-    <a href="https://s.click.aliexpress.com/e/_dSf2apO" >
-        <img src="assets/images/shops/interested.png" alt="Samsung Galaxy Note 10|10+|10+ 5G" width="150" />
-    </a>
-</p>
-
-<hr>
-
-<p align="center">
-    <a href="https://s.click.aliexpress.com/e/_dZuExMo" >
-        <img src="https://ae01.alicdn.com/kf/U77fffbf9f7294f40a76a26980b4aef98V/Global-Version-font-b-Xiaomi-b-font-font-b-Mi-b-font-font-b-9T-b.jpg_350x350.jpg" alt="Xiaomi Mi 9T 128GB" width="350" />
-    </a>
-</p>
-
-<h4 align="center">Global Version Xiaomi Mi 9T 128GB ROM 6GB RAM (Brand New / Sealed)</h4>
-
-<p align="center">US $276.00 - 322.00</p>
-
-<p align="center">
-    <a href="https://s.click.aliexpress.com/e/_dZuExMo" >
-        <img src="assets/images/shops/interested.png" alt="Xiaomi Mi 9T" width="150" />
-    </a>
-</p>
