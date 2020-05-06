@@ -21,6 +21,6 @@ I invite you to check this page!
 
 <p align="center">
     <a href="https://bit.ly/2WyiGvR" target="_blank" >
-        <img src="assets/images/posts/interested.png" width="180">
+        <img src="assets/images/shops/interested.png" width="180">
     </a>
 </p>

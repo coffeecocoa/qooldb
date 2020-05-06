@@ -52,6 +52,6 @@ If you are disturbed from your obesity or weight gain issues, then don’t forge
 
 <p align="center">
     <a href="https://bit.ly/2y2WwYm" target="_blank">
-        <img src="assets/images/posts/interested.png" width="180">
+        <img src="assets/images/shops/interested.png" width="180">
     </a>
 </p>

@@ -20,6 +20,6 @@ You cannot find anywhere, the nutrients, vitamins, and detoxifying agents as pow
 
 <p align="center">
     <a href="https://bit.ly/2J5fwrn" target="_blank">
-        <img src="assets/images/posts/interested.png" width="180">
+        <img src="assets/images/shops/interested.png" width="180">
     </a>
 </p>
