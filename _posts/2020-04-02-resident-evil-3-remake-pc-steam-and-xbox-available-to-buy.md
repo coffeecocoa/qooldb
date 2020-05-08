@@ -8,13 +8,13 @@ tags: [ gaming, lists]
 
 
 <p align="center">
-    <a href="https://www.g2a.com/r/resident-evil-3-steam-global" >
+    <a href="https://www.gamivo.com/product/resident-evil-3-remake?glv=1fmnglvd" >
         <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Resident_Evil_3.jpg" alt="Resident Evil 3 Remake" width="350" />
     </a>
 </p>
 
 <p align="center">
-    <a href="https://www.g2a.com/r/resident-evil-3-steam-global" >
+    <a href="https://www.gamivo.com/product/resident-evil-3-remake?glv=1fmnglvd" >
         <img src="assets/images/shops/interested.png" alt="Resident Evil 3 Remake buy" width="150" />
     </a>
 </p>
@@ -36,7 +36,7 @@ WARNING: This game contains strong language and extreme violence.
 </p>
 
 <p align="center">
-    <a href="https://www.g2a.com/r/resident-evil-3-steam-global" >
+    <a href="https://www.gamivo.com/product/resident-evil-3-remake?glv=1fmnglvd" >
         <img src="assets/images/shops/interested.png" alt="Resident Evil 3 Remake buy" width="150" />
     </a>
 </p>

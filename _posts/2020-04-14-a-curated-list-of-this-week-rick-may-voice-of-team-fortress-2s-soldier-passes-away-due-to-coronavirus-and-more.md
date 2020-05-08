@@ -53,7 +53,7 @@ tags: [gaming, lists]
 
 
 <p align="center">
-    <a href="https://bit.ly/gamenelectrostore">
+    <a href="https://www.gamivo.com?glv=1fmnglvd">
         <strong>
             What new games are coming out in 2020?
         </strong>

@@ -10,4 +10,22 @@ layout: default
   {{ content }}
 </article>
 
+<hr>
+
 {% include share-buttons.html %}
+<br>
+<span>Follow me on <a href="https://twitter.com/qooldb">twitter</a> </span>
+
+<hr>
+
+<br>
+<span>YOU MIGHT ALSO LIKE</span>
+
+{% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:4 %}
+{% for post in posts %}
+  {% include related-post.html %}
+{% endfor %}
+
+   {% if site.disqus-shortname %}
+   {% include disqus.html %}
+   {% endif %}

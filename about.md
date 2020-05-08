@@ -15,3 +15,5 @@ Some items listed on this site do return a small commission for product referral
 *   [Twitter](https://twitter.com/qooldb)
 
 *   [Pinterest](https://pinterest.com/qooldb/)
+
+*   <a href="{{ "/atom.xml" | prepend: site.baseurl | replace: '//', '/' }}">RSS</a>
