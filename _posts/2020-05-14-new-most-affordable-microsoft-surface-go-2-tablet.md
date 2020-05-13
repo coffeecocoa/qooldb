@@ -1,7 +1,7 @@
 ---
 title: NEW Most Affordable Microsoft Surface Go 2 Tablet
 description: You can just write, take notes and complete homework directly on screen.
-date: 2020-05-14 02:00:00
+date: 2020-05-13 19:00:00
 published: true
 tags: [ windows, lists]
 ---
