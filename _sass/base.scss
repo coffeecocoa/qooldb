@@ -272,6 +272,12 @@ a:active, a:focus {
   min-height: calc(100vh - 100px);
 }
 
+
+img {
+
+  border-radius: 10px;
+}
+
 .video-responsive{
     overflow:hidden;
     padding-bottom:56.25%;
@@ -284,4 +290,6 @@ a:active, a:focus {
     height:100%;
     width:100%;
     position:absolute;
+
+    border-radius: 10px;
 }

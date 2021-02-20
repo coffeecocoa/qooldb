@@ -7,14 +7,16 @@
   <meta name="p:domain_verify" content="a26359fcd81b3f7f4659092e339352b6"/>
 
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="generator" content="Jekyll">
 
-  <title>{%if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  {% seo %}
+
+  
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | replace: '//', '/' }}">
 
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
   
-  <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" /> {% seo %}
+  <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }}" /> 
 </head>
