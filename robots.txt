@@ -1,2 +1,5 @@
+---
+layout: none
+---
 User-agent: *
-Disallow: /contact.html
+Sitemap: {{ site.url }}/sitemap.xml
