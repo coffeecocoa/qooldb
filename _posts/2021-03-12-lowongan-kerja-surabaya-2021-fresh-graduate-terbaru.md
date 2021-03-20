@@ -84,3 +84,11 @@ Perusahaan: PT RF Group Surabaya
 Jenis: FULLTIME
 
 Alamat: Wisma Bii, Jl. Pemuda No.60-70, Embong Kaliasin, Kec. Genteng, Kota SBY, Jawa Timur 60271, Indonesia
+
+<hr>
+
+### PHP Full-stack Web Developer at Lifted Logic, Kansas City
+
+We understand that there is no one-size-fits-all solution that's why we value every developer’s input on best tools for the job! So, is this something you need?
+
+<a href="mailto:todd@liftedlogic.com" target="">Let's talk!</a>
