@@ -11,7 +11,7 @@ url: "https://qooldb.netlify.app"
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 13
+paginate: 50
 paginate_path: /page/:num/
 
 defaults:
