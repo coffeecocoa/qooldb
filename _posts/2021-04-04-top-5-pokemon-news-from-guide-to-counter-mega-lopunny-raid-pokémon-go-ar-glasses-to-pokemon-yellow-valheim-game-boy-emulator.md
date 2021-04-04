@@ -13,7 +13,7 @@ tags: [pokemon, lists]
 </p>
 
 <h3 align="center">
-    Oh snap! More event details have been pushed, describing the tie-in event between Pokémon GO and Pokémon Snap.
+    Oh snap! More event details have been pushed, describing the tie-in event between Pokémon GO and Pokémon Snap...
 </h3>
 
 Hello [trainers](/archive)! A few updates have been pushed and unearthed by the Pokéminers, including a Pokémon Snap tie-in event, some friendship event details, and [more](/archive)!
