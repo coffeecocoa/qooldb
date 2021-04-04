@@ -1,6 +1,6 @@
 ---
-title: How drones have added a new dynamic to conflicts
-description: Military drone for killing purposes have been in use for 20 years. However, Turkey’s victory in Nagorno-Karabakh impressively displayed how fighting has changed and how pivotal drone have become in combat.
+title: How drones have added a new dynamic to conflicts and Hundreds of drones took Van Gogh's 'The Starry Night'
+description: Military drone for killing purposes have been in use for 20 years. Van Gogh's "The Starry Night" has found on surfaces, Like planes stacked on a runway during a busy holiday
 date: 2021-02-20 20:00:00
 published: true
 tags: [ drone, lists]
