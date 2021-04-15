@@ -7,7 +7,7 @@ tags: [pokemon, lists]
 ---
 
 <p align="center">
-    <a href="/archive" >
+    <a href="/" >
         <img src="https://pokemongohub.net/wp-content/uploads/2019/02/go-snapshot-696x392.jpg" alt="Top 5 Pokemon News! From Guide to Counter Mega Lopunny Raid, Pokémon Go AR glasses to Pokemon Yellow Valheim Game Boy emulator" title="Top 5 Pokemon News! From Guide to Counter Mega Lopunny Raid, Pokémon Go AR glasses to Pokemon Yellow Valheim Game Boy emulator"  />
     </a>
 </p>
@@ -16,7 +16,7 @@ tags: [pokemon, lists]
     Oh snap! More event details have been pushed, describing the tie-in event between Pokémon GO and Pokémon Snap...
 </h3>
 
-Hello [trainers](/archive)! A few updates have been pushed and unearthed by the Pokéminers, including a Pokémon Snap tie-in event, some friendship event details, and [more](/archive)!
+Hello [trainers](/)! A few updates have been pushed and unearthed by the Pokéminers, including a Pokémon Snap tie-in event, some friendship event details, and [more](/)!
 
 <a rel="noreferrer noopener external nofollow" href="https://pokemongohub.net/post/news/new-pokemon-snap-celebration-event-discovered-by-pokemon-go-data-miners/" target="_blank">
     Let’s dive in!

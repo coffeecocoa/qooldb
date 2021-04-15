@@ -7,7 +7,7 @@ tags: yugioh
 ---
 
 <p align="center">
-    <a href="/archive" >
+    <a href="/" >
         <img src="https://static.wikia.nocookie.net/yugioh/images/d/d6/DramaturgiaofDespia-DAMA-JP-OP.png" alt="New Yugioh Archetype Despia and Tier 1 Potential!" title="New Yugioh Archetype Despia and Tier 1 Potential!"  />
     </a>
 </p>
@@ -18,7 +18,7 @@ Despia is a brand new Fairy archetype set to be released in Dawn of Majesty...
 
 The core set following Lightning Overdrive! A fusion-based, chaos archetype with plenty of possibilities... 
 
-This archetype is looking to be primed for Tier 1 contention... 
+This [archetype](/) is looking to be primed for Tier 1 contention... 
 
 Now...
 
